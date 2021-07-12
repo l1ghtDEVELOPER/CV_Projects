@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @l1ghtDEVELOPER
 - 👀 I’m interested in Web Development and Web Design
 - 🌱 I’m currently learning SASS / JavaScript
-- 📫 How to reach me ...
+- 📫 How to reach me: emil.paszewski@gmail.com
